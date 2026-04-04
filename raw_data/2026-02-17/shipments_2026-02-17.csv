@@ -1,0 +1,8 @@
+order_id,product_category,origin_city,destination_city,shipment_date,weight_kg,shipping_cost,status
+19c4b811-9bc7-48b0-a9cb-ea731ccc1193,Auto Components,Pune,Bangalore,2026-02-15,293.02,3596.88,Delivered
+0008da0d-5553-4312-a058-c82ca6fcec28,Electronics,Bangalore,Pune,2026-02-16,492.81,2556.11,Delivered
+50e4ed61-596a-40d4-be6e-cd30c1657228,Food Containers,Kolkata,Delhi,2026-02-17,478.81,2000.14,In Transit
+cc29bae4-67a4-42a1-beb6-1ea2f5b5c117,Auto Components,Kolkata,Bangalore,2026-02-17,353.1,4718.43,In Transit
+ca2ce2af-6748-441a-be29-cdcade8477b9,Food Containers,Chennai,Kolkata,2026-02-17,313.67,3965.11,In Transit
+eaf34772-1fc7-4097-ae0c-2f1ab00c237e,Food Containers,Pune,Pune,2026-02-17,187.99,1300.68,In Transit
+0fc28438-e27f-48e8-966c-a1160ea1f4a6,Auto Components,Pune,Pune,2026-02-17,96.9,1047.83,In Transit

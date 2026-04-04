@@ -1,0 +1,11 @@
+order_id,product_category,origin_city,destination_city,shipment_date,weight_kg,shipping_cost,status
+ecd04e81-905d-4eef-994f-ddd6cb4b4a4f,Food Containers,Bangalore,Bangalore,2026-02-15,320.76,3549.23,Delivered
+ddaa4e26-7096-4568-b9ef-3942623c5a26,Auto Components,Bangalore,Mumbai,2026-02-15,372.69,1449.53,Delivered
+307a8905-6762-4934-a314-6043f82dbacd,Food Containers,Bangalore,Chennai,2026-02-15,484.74,2060.73,Delivered
+2d824b4f-695d-4083-9d06-683afbfe7f95,Electronics,Delhi,Delhi,2026-02-16,180.45,941.49,Delivered
+9fc869c3-0e22-4f66-95dc-97afc209592e,Food Containers,Pune,Pune,2026-02-16,174.23,703.44,Delivered
+fcad9b77-52d3-49fc-9868-66acbaf2c33b,Medical Supplies,Kolkata,Bangalore,2026-02-16,15.65,1824.11,Delivered
+c4586fc1-e033-49a3-bb84-4ef005b063c6,Food Containers,Kolkata,Chennai,2026-02-16,167.47,1465.55,Delivered
+3cad63cb-40da-477a-85ae-a5155b21a6d5,Medical Supplies,Pune,Bangalore,2026-02-16,390.62,1989.73,In Transit
+f634ef3c-9cbd-48ca-a941-241ab5167561,Food Containers,Pune,Delhi,2026-02-16,36.54,443.02,In Transit
+0008da0d-5553-4312-a058-c82ca6fcec28,Electronics,Bangalore,Pune,2026-02-16,492.81,2556.11,In Transit

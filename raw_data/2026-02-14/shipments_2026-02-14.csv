@@ -1,0 +1,150 @@
+order_id,product_category,origin_city,destination_city,shipment_date,weight_kg,shipping_cost,status
+b0ac518b-0f44-4678-afac-8f0eb9bf242a,Electronics,Pune,Delhi,2026-02-14,38.71,1246.91,In Transit
+7ead021e-49f8-4589-a7ea-408fa95cd051,Electronics,Mumbai,Chennai,2026-02-14,483.62,183.72,Damaged
+1c9e9d79-f3e8-4d2b-826e-0e06c335669a,Electronics,Kolkata,Chennai,2026-02-14,433.02,997.99,Delayed
+7bdb6730-f940-4e7f-ab83-cd13edbe83ae,Food Containers,Bangalore,Kolkata,2026-02-14,331.93,3139.25,In Transit
+85ea623a-2654-444e-a47c-70f99dc33fd4,Food Containers,Bangalore,Kolkata,2026-02-14,352.44,797.02,Delayed
+f28f33f4-13ee-4ac9-b107-7444b6d394b9,Food Containers,Chennai,Chennai,2026-02-14,487.97,1947.55,Delivered
+f06289ec-0194-4faf-a758-b8b3ab5b4e1d,Medical Supplies,Chennai,Bangalore,2026-02-14,57.04,4473.3,In Transit
+8c5a9341-e8fe-4e30-bb3e-3185ca094a3d,Food Containers,Pune,Chennai,2026-02-14,83.4,370.97,Damaged
+d01f707e-2e9d-4eb3-ae28-13d54d362e1d,Electronics,Mumbai,Mumbai,2026-02-14,124.04,2698.09,In Transit
+cfb0b9a7-bed6-41d2-ab3a-bbf2b161c9cd,Electronics,Pune,Bangalore,2026-02-14,467.01,1566.19,Damaged
+c689788c-a013-47f5-926b-244218b2f8eb,Electronics,Kolkata,Chennai,2026-02-14,245.6,216.31,Delivered
+eb9b6fa7-f2f0-42f6-9392-df8d11371753,Auto Components,Kolkata,Delhi,2026-02-14,287.65,4884.57,In Transit
+dd5ba731-209e-4e24-8a5c-447ebbcd3782,Electronics,Delhi,Pune,2026-02-14,341.38,1862.63,Delayed
+e1dd589e-78b0-4337-9d9e-9cf1e4885a97,Auto Components,Pune,Pune,2026-02-14,92.76,568.43,In Transit
+8d67d2ef-acd6-4273-9cad-1588abe80999,Medical Supplies,Kolkata,Mumbai,2026-02-14,454.92,4106.86,Delayed
+02347d54-aeca-45c8-892b-f6c072e06bfe,Electronics,Mumbai,Kolkata,2026-02-14,314.99,4004.57,Delivered
+fa9674b4-679d-4667-a3b1-f14c24c6adb5,Auto Components,Chennai,Mumbai,2026-02-14,79.99,4868.02,Damaged
+875b36d6-08c7-4ddb-85ff-4098954bda09,Food Containers,Chennai,Mumbai,2026-02-14,345.62,1262.05,Delivered
+cd80e401-6cef-49e1-a48f-871f87c2a1ff,Medical Supplies,Pune,Bangalore,2026-02-14,499.01,338.25,Damaged
+3bcfb0eb-43b4-44b5-adb6-773678d71e4a,Electronics,Kolkata,Mumbai,2026-02-14,498.11,3641.66,Damaged
+29d0a59d-5a11-4ede-b908-67d761d730dc,Medical Supplies,Kolkata,Kolkata,2026-02-14,41.39,4670.16,Damaged
+018842fc-50fa-4b6c-93ef-328eedf6f5cc,Electronics,Chennai,Pune,2026-02-14,386.71,583.9,Damaged
+f746610d-c3c2-4d9d-bb3f-26550f30d69c,Medical Supplies,Chennai,Delhi,2026-02-14,445.19,2070.52,Delayed
+afc7c013-ceb9-4fa5-83e2-3a7f3f652f3c,Electronics,Kolkata,Pune,2026-02-14,56.64,2511.44,Delivered
+3c0ec412-4385-4b4a-924d-ee5d7db14cfb,Medical Supplies,Pune,Kolkata,2026-02-14,309.57,3873.73,Delivered
+ce57fa6e-0372-46d9-86e7-9dc80cccc9ef,Auto Components,Mumbai,Kolkata,2026-02-14,484.97,4010.1,Delayed
+57905e94-aee2-4848-bf49-72fd38e3fa2d,Auto Components,Chennai,Pune,2026-02-14,78.18,665.76,Delayed
+57e53b17-df10-48f7-9e71-037bc8c1d46f,Auto Components,Chennai,Kolkata,2026-02-14,383.54,344.69,Delayed
+4aa1f391-047b-44e6-ae9c-2519040ea388,Food Containers,Mumbai,Delhi,2026-02-14,371.38,2572.62,In Transit
+ae6e248b-3f29-4a3c-b206-084384811d0f,Food Containers,Mumbai,Mumbai,2026-02-14,141.39,1651.36,Delivered
+2b4c4320-ff8b-4d2d-856d-796475a57098,Medical Supplies,Bangalore,Delhi,2026-02-14,363.28,4528.85,Damaged
+cc86ff9f-7f94-443c-ad4d-e3a8d002e9dd,Electronics,Chennai,Pune,2026-02-14,145.26,4528.37,Delayed
+76c34865-3647-4635-9d60-5b01245d23a8,Auto Components,Kolkata,Bangalore,2026-02-14,323.39,4647.93,Delivered
+8b19824f-6aa1-4bda-a15b-df60af64da3d,Medical Supplies,Delhi,Delhi,2026-02-14,412.9,2803.99,In Transit
+6c51b46f-3989-434d-a944-53d0ad12c692,Electronics,Pune,Pune,2026-02-14,226.69,4841.29,Damaged
+d8240624-a44b-44ce-b62b-4b6fe2da26a3,Medical Supplies,Mumbai,Pune,2026-02-14,98.21,1639.38,Delivered
+cc349d8c-cb47-4776-8f21-11bed425a12f,Food Containers,Bangalore,Bangalore,2026-02-14,388.99,643.6,Delayed
+28a80b89-9708-4970-9cd6-f5dc2a2e9400,Food Containers,Chennai,Chennai,2026-02-14,328.38,1137.52,Damaged
+8c05aa38-937f-46ba-9a38-e793ce414e27,Food Containers,Bangalore,Chennai,2026-02-14,401.46,2353.3,Delayed
+074c9e00-18f7-4aec-864a-d8d56edd7a66,Auto Components,Mumbai,Chennai,2026-02-14,328.1,3693.99,Delivered
+00e530cf-c169-42c4-8426-10f45383de06,Electronics,Chennai,Bangalore,2026-02-14,51.92,3723.41,Delivered
+a9c26b89-393d-4c8d-8a75-115ffdad574b,Food Containers,Mumbai,Bangalore,2026-02-14,117.88,3360.79,Damaged
+e0b9d125-09b5-4836-a962-52f55b83c2ce,Food Containers,Chennai,Mumbai,2026-02-14,497.35,4961.1,Delayed
+cfda9f4e-a51d-441e-931a-97520f38209e,Food Containers,Chennai,Bangalore,2026-02-14,356.73,4600.82,Delayed
+df6e66cd-3b6f-4d97-ab81-7c4d9e0bae07,Electronics,Delhi,Pune,2026-02-14,13.47,4979.04,In Transit
+2898f329-8c68-471d-b38f-41f17b723b5a,Auto Components,Kolkata,Mumbai,2026-02-14,29.61,3279.45,Delivered
+304586d5-a218-45d8-b085-ccef1621f222,Medical Supplies,Delhi,Pune,2026-02-14,246.79,1691.84,In Transit
+eb83721b-7edc-4e28-802b-606aa874b213,Food Containers,Mumbai,Bangalore,2026-02-14,437.41,4471.56,Damaged
+017e5169-529b-40bd-a042-d118b051aa2f,Medical Supplies,Delhi,Mumbai,2026-02-14,270.96,3592.71,Delayed
+2f7bd099-6213-48ac-986f-098b7a080620,Electronics,Chennai,Pune,2026-02-14,421.66,1126.42,In Transit
+1226269d-ad7e-4883-a863-4f2bcf94abff,Food Containers,Bangalore,Mumbai,2026-02-14,281.68,2423.41,Damaged
+a541ef6e-83ef-46b2-8886-98d4eee061e7,Electronics,Delhi,Bangalore,2026-02-14,419.99,2914.72,Delivered
+f9ba72cb-0261-487f-a599-621e0a9ed9db,Auto Components,Kolkata,Pune,2026-02-14,148.22,3165.92,Delivered
+67b9ec50-9f84-47b5-818c-0be3c0f03d88,Food Containers,Delhi,Delhi,2026-02-14,140.85,914.32,In Transit
+b4acc196-ba5b-47c6-a162-65e02bf15e95,Electronics,Pune,Mumbai,2026-02-14,35.3,1290.36,Delivered
+257ab218-831b-428c-b49d-46df67bb5c88,Electronics,Delhi,Delhi,2026-02-14,450.58,3988.71,Delivered
+81984d68-d3ce-43e3-8c60-8a326777a1cf,Electronics,Delhi,Mumbai,2026-02-14,160.94,1881.92,Delayed
+393370c5-716e-4942-acb5-fe2230958e2a,Medical Supplies,Mumbai,Kolkata,2026-02-14,385.38,2758.24,Damaged
+7c01cac0-8add-4a0a-8c5d-2b465951dc5b,Food Containers,Bangalore,Pune,2026-02-14,325.36,3597.86,Delayed
+b914925b-f692-47da-88b8-76dabbbd5ccd,Electronics,Mumbai,Chennai,2026-02-14,437.4,3241.63,Delivered
+d6f9aaeb-1f33-4cde-a069-cb327c6c55cb,Medical Supplies,Mumbai,Delhi,2026-02-14,130.44,4326.76,Damaged
+b6ae1e9b-81e1-45aa-8f2d-08831892d589,Medical Supplies,Delhi,Mumbai,2026-02-14,122.95,1600.88,Delayed
+2d9f72db-dfac-40d2-b727-88e6b066abd3,Auto Components,Bangalore,Pune,2026-02-14,348.99,3270.39,In Transit
+53e9380f-6544-4f11-ae05-fd44ae6cd817,Electronics,Pune,Delhi,2026-02-14,35.1,1498.92,Damaged
+121acc94-ad08-4535-a279-635bd3e90d80,Food Containers,Mumbai,Delhi,2026-02-14,360.11,4467.96,In Transit
+69a63c20-1d4b-4906-be6e-9cebf70638eb,Food Containers,Pune,Mumbai,2026-02-14,184.01,3454.82,In Transit
+166f8868-06ec-4ceb-b969-1b394d194061,Electronics,Pune,Chennai,2026-02-14,102.62,4439.47,Delayed
+539505d2-8ca9-4cb4-aba7-41c4be3fe891,Auto Components,Delhi,Delhi,2026-02-14,165.54,735.14,Damaged
+9437bec0-1626-4fa9-8f60-e05bb731695d,Medical Supplies,Pune,Kolkata,2026-02-14,263.07,1828.06,Damaged
+abc6c8bb-7586-48f5-b395-4064a5d94d97,Auto Components,Mumbai,Mumbai,2026-02-14,185.16,2993.53,Delivered
+fb99a976-194b-4635-825a-4654ecf5d091,Auto Components,Chennai,Pune,2026-02-14,447.41,1936.87,Delivered
+cc02b57d-c22b-499e-abfa-765cc51598f7,Medical Supplies,Mumbai,Kolkata,2026-02-14,388.03,392.81,Delivered
+13e06346-26d0-4a2e-b7f4-7303fa6b126f,Medical Supplies,Delhi,Mumbai,2026-02-14,114.43,4238.35,In Transit
+f1875ca2-97bd-4005-ac13-b44e56234774,Food Containers,Kolkata,Kolkata,2026-02-14,413.57,4422.36,Damaged
+457e8cc4-d43a-48f6-a8a3-ea499663d12f,Food Containers,Kolkata,Chennai,2026-02-14,122.55,1058.66,Damaged
+c7726d84-c3d3-460e-b8a2-10e6276f2c6b,Food Containers,Pune,Kolkata,2026-02-14,358.75,2080.62,Damaged
+7ecb3507-ba96-4b23-99cf-c1e0154f9bff,Auto Components,Mumbai,Kolkata,2026-02-14,212.37,3978.33,Delivered
+d2b369aa-684a-4d19-b821-759028b3366a,Food Containers,Kolkata,Bangalore,2026-02-14,186.89,540.78,Damaged
+8c2c3faf-c41b-4e81-b24f-b26075f5c577,Food Containers,Chennai,Kolkata,2026-02-14,48.72,3287.21,In Transit
+2284e340-6beb-45e7-95f5-cacfdd76b2e4,Medical Supplies,Pune,Delhi,2026-02-14,134.65,4059.41,Delayed
+50965dfc-dd6d-4c14-b7cd-b48108a73aec,Medical Supplies,Bangalore,Kolkata,2026-02-14,35.5,443.02,Delivered
+04005423-89f2-4358-9568-9c1649d4212c,Auto Components,Mumbai,Kolkata,2026-02-14,469.33,2051.68,In Transit
+66f7f0c7-7fe7-4232-9d93-4566a882048b,Food Containers,Chennai,Kolkata,2026-02-14,343.37,3796.79,Delivered
+920c7a85-52df-4faa-beb3-e0b0f2de086e,Medical Supplies,Kolkata,Mumbai,2026-02-14,410.63,1495.34,Delivered
+557096af-05b0-4eb0-aec2-e6efc70efa28,Food Containers,Chennai,Pune,2026-02-14,355.87,1558.25,Delivered
+17c88725-fc88-4a53-ab7f-6b95fdbdf807,Electronics,Pune,Kolkata,2026-02-14,155.58,4023.71,Delayed
+2a49e653-54a3-4695-b2d8-20503d852b87,Electronics,Mumbai,Bangalore,2026-02-14,288.05,294.56,Delayed
+b66cfb20-0bb9-4f07-bb5e-0615ba737c62,Auto Components,Kolkata,Kolkata,2026-02-14,220.6,1197.43,Delayed
+4f331caa-39a8-4fcb-b240-bc90ad7073d9,Electronics,Kolkata,Mumbai,2026-02-14,426.24,111.07,Damaged
+4f723f14-2ffd-4c6d-bb86-d1d2e6f34aa3,Auto Components,Mumbai,Mumbai,2026-02-14,381.38,677.55,Damaged
+e884e41e-b74d-41bc-a602-3ab786da5e96,Electronics,Chennai,Chennai,2026-02-14,425.37,875.79,Damaged
+8011cc4c-4393-4813-9103-b003a426c208,Food Containers,Chennai,Kolkata,2026-02-14,399.26,1362.97,Damaged
+e04ee495-8ad4-4611-9f5f-c7881520dd40,Food Containers,Delhi,Chennai,2026-02-14,95.18,4842.08,Delivered
+11cc6524-cc67-4797-84ac-72a128ba2a4c,Medical Supplies,Delhi,Kolkata,2026-02-14,368.93,4448.44,Damaged
+1df09126-45fe-4a3b-96f3-519ab3bfec70,Electronics,Kolkata,Mumbai,2026-02-14,56.59,4405.37,Damaged
+dbbe6178-98a2-4998-9863-c12ba894a007,Auto Components,Mumbai,Delhi,2026-02-14,463.71,1552.15,Delivered
+0e97bd76-f94f-4c21-bb05-6c57650e28f8,Medical Supplies,Chennai,Kolkata,2026-02-14,167.26,1837.23,Delayed
+dba4e172-0e25-4555-b37d-c569dfc69c40,Electronics,Chennai,Bangalore,2026-02-14,216.82,2461.53,In Transit
+a2643630-ab49-4676-b518-786506cc3cf7,Medical Supplies,Kolkata,Delhi,2026-02-14,322.97,1406.95,In Transit
+521575ad-4adb-43c3-a0e7-0a5b93dbc457,Food Containers,Delhi,Kolkata,2026-02-14,425.87,2462.13,Delayed
+29e49f43-6c04-4e89-aa39-8b7586b3aad3,Food Containers,Kolkata,Mumbai,2026-02-14,226.53,4738.37,Delayed
+4d4faae6-1a68-43e5-a063-143b20dddd8f,Food Containers,Kolkata,Chennai,2026-02-14,153.91,1660.15,Delivered
+4284c479-c983-4777-a9d4-952fcb2d24a5,Food Containers,Pune,Pune,2026-02-14,255.87,2579.61,Delayed
+5d13ea3d-6d77-401b-84cd-490afbc0787b,Medical Supplies,Bangalore,Pune,2026-02-14,248.59,2964.55,Damaged
+2d7c7764-5ea8-42fe-a406-49fad1b8b8fa,Food Containers,Pune,Delhi,2026-02-14,120.06,2065.03,In Transit
+c5fbf102-52fd-46df-911a-2e1591db26d3,Medical Supplies,Bangalore,Kolkata,2026-02-14,400.59,3013.15,In Transit
+4af9384d-17da-404f-a321-4762d81cbc2b,Auto Components,Mumbai,Chennai,2026-02-14,263.5,3067.65,Damaged
+1cf01852-0248-4b93-a3a8-a7c106f12d06,Medical Supplies,Pune,Mumbai,2026-02-14,288.97,3022.89,Damaged
+547b7c89-28f1-4615-bebe-6613c9d0abe8,Electronics,Kolkata,Pune,2026-02-14,361.24,2640.06,Delayed
+686ef234-1f25-4063-8a8b-118320a83811,Electronics,Pune,Bangalore,2026-02-14,112.5,2330.25,Delivered
+106c7dc0-30a2-4930-a11b-9ac604d44288,Food Containers,Delhi,Pune,2026-02-14,199.24,4508.14,Damaged
+7ccf09bf-f7f1-410f-b3d9-8f8ba307027c,Auto Components,Mumbai,Kolkata,2026-02-14,419.22,3757.52,Delivered
+fec789f7-4993-46f4-afe5-790eb16f50a1,Electronics,Pune,Kolkata,2026-02-14,421.7,4955.64,In Transit
+f7c78c9e-f18d-48a5-a46b-11b898116376,Electronics,Delhi,Pune,2026-02-14,140.07,562.11,Delayed
+3ad242cd-0de2-4ba3-b240-24ddffd1fb88,Medical Supplies,Mumbai,Chennai,2026-02-14,84.98,2108.61,Delayed
+4ac76ace-11f5-435d-b534-25d37b0fb1e9,Auto Components,Pune,Pune,2026-02-14,201.97,3959.88,Delivered
+712c31b0-a634-415d-a6ae-dd5d4a34e996,Auto Components,Pune,Mumbai,2026-02-14,145.59,2757.07,Damaged
+0b0fa629-7396-42ca-a396-3e5be42e3914,Food Containers,Mumbai,Mumbai,2026-02-14,301.61,805.46,Damaged
+39b229cd-46e1-4281-994f-addec3d1a826,Medical Supplies,Chennai,Kolkata,2026-02-14,130.08,1454.3,Delivered
+4acd64d8-46e1-498b-bd16-06f80cd3cfd3,Food Containers,Bangalore,Mumbai,2026-02-14,201.71,4078.15,Damaged
+33fb61d3-9a96-4831-8b9d-743d31e5d474,Auto Components,Chennai,Bangalore,2026-02-14,425.07,2706.65,Delayed
+5c735f4a-05be-4c8d-93a0-23ec4eb7a859,Electronics,Pune,Bangalore,2026-02-14,455.85,196.96,Damaged
+276b4518-b28a-4fd3-8738-5f4882ace8b1,Medical Supplies,Kolkata,Kolkata,2026-02-14,176.76,3509.85,Damaged
+c9a73a99-f927-4b87-908e-b7c5be04f02f,Electronics,Delhi,Kolkata,2026-02-14,287.93,1764.14,Damaged
+ce86dafe-7604-44ef-a613-d89413b52a32,Medical Supplies,Bangalore,Pune,2026-02-14,428.08,1195.14,Delivered
+528c963e-68a6-41f2-8e12-c7bdcda160fc,Food Containers,Delhi,Pune,2026-02-14,181.86,1396.99,Damaged
+a93b3337-cabd-461d-a038-cd1e2bd5466a,Auto Components,Delhi,Bangalore,2026-02-14,178.67,3411.1,Damaged
+0283b7ae-ce73-446f-95d4-d568b62cb4c5,Food Containers,Pune,Chennai,2026-02-14,146.37,1970.23,Damaged
+42564a73-24e7-4db7-ab22-0e39e2ef93f4,Food Containers,Kolkata,Mumbai,2026-02-14,142.05,535.99,Delivered
+2c87e7da-9a31-4b14-acc0-4becff9c3739,Medical Supplies,Chennai,Pune,2026-02-14,325.74,3761.26,In Transit
+18f5d95a-8ee1-42a5-90a0-5954060b0af2,Auto Components,Mumbai,Pune,2026-02-14,456.1,2787.22,In Transit
+2710dade-185b-48a9-ac2c-e4e65f108d7d,Medical Supplies,Pune,Bangalore,2026-02-14,355.15,4775.92,Damaged
+ac6dd0ec-9d59-4d9f-b660-569648c86b88,Auto Components,Kolkata,Pune,2026-02-14,147.17,483.54,Damaged
+55acd59d-048d-4e38-b244-15dc6038c8f5,Medical Supplies,Kolkata,Bangalore,2026-02-14,466.94,1346.4,Delayed
+4f036c11-566a-4712-97da-8cd247e8a91d,Electronics,Chennai,Mumbai,2026-02-14,337.96,3701.18,Damaged
+f62d2c24-d379-46bf-9d84-b38dc98bf113,Auto Components,Kolkata,Kolkata,2026-02-14,188.01,3829.78,Damaged
+9143c795-a649-421d-99eb-5f58391683ab,Medical Supplies,Delhi,Delhi,2026-02-14,320.27,4300.03,In Transit
+d9c5ff55-cf18-460f-a3e8-a3e691107170,Food Containers,Mumbai,Chennai,2026-02-14,73.38,815.28,Delayed
+2b77e24e-a3e7-4baf-8b8d-f67da1033178,Auto Components,Bangalore,Bangalore,2026-02-14,228.29,4397.6,Delayed
+92902c92-91c3-4c04-b723-825d89c2b9fe,Medical Supplies,Pune,Chennai,2026-02-14,98.93,4002.05,In Transit
+cba5f1ef-68a8-4461-abf8-a1fe1a5d75ad,Electronics,Kolkata,Pune,2026-02-14,487.92,3339.11,In Transit
+5f786ac4-9987-464f-bc22-909507e40254,Food Containers,Pune,Pune,2026-02-14,253.49,274.79,In Transit
+0c4be32e-0078-4bf7-8537-09ae86351ec4,Auto Components,Mumbai,Delhi,2026-02-14,320.77,2564.03,Delayed
+13be3688-616a-4384-b2be-c75a9cf7a887,Electronics,Delhi,Pune,2026-02-14,363.19,1154.03,In Transit
+82377497-871d-4899-b793-dbc398eac2ee,Medical Supplies,Delhi,Chennai,2026-02-14,234.64,742.66,Delivered
+3c73cb51-0db7-4e64-9c1d-dfce466eee5b,Medical Supplies,Delhi,Chennai,2026-02-14,490.66,4262.68,Delivered
+29a8deaf-03eb-46ba-aeb6-2e0c81043270,Electronics,Bangalore,Kolkata,2026-02-14,231.81,3831.37,Delivered
+fb8ae977-b8f6-4dc1-beb3-b2009234ebd8,Electronics,Mumbai,Chennai,2026-02-14,459.89,4548.66,In Transit
+805ee774-6ff3-4f2d-9941-eb614e223a50,Electronics,Bangalore,Pune,2026-02-14,68.36,1841.77,Delayed
